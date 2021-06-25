@@ -2,7 +2,7 @@
 'Script Name : CreateShortcut.vbs
 'Author : Mustafa Can Ozturk
 'Created : 25.06.2021
-'Description : This script creates a description for another script
+'Description : This script creates a shortcut for a file
 '******************************************************
 
 dim objWshShell, DesktopPath, objNewShortcut
