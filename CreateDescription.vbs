@@ -1,3 +1,10 @@
+'******************************************************
+'Script Name : CreateShortcut.vbs
+'Author : Mustafa Can Ozturk
+'Created : 25.06.2021
+'Description : This script creates a description for another script
+'******************************************************
+
 Option Explicit
 
 Dim objWshArgs, Name, Auth, Desc
